@@ -21,7 +21,7 @@ public class Teste {
     public static void main(String[] args) {
 
         int[] valores = new int[10];
-        System.out.println("O valor padrão é do array de dez lugares é: " + valores[0]);
+        System.out.println("O valor padrão do array de dez lugares é: " + valores[0]);
 
         // Por ser uma linguagem fortemente tipada, todas as variáveis em Java
         // precisam ter um tipo (que pode ser implícito se utilizarmos "var"):
