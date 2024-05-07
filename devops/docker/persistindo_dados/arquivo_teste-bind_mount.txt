@@ -1,0 +1,1 @@
+esse arquivo foi criado de dentro de um container docker usando bind mount
